@@ -61,10 +61,10 @@ const Footer = () => {
             <p className="p-color">
               Created with ❤️ by{" "}
               <Link
-                href="https://github.com/preetsuthar17"
+                href="https://github.com/Gold7EXE"
                 className="h-color no-decoration"
               >
-                Preet Suthar
+                Gold
               </Link>
             </p>
             <p className="p-color">{year} &copy; All rights reserved!</p>
@@ -76,7 +76,7 @@ const Footer = () => {
             <Link
               target="_blank"
               className="p-color no-decoration"
-              href="https://github.com/preetsuthar17/discord-bot-website-template"
+              href="https://github.com/Gold7EXE/de-site"
             >
               /source-code
             </Link>
