@@ -28,7 +28,7 @@ const Navbar = () => {
             <li>
               <Link
                 className="p-color"
-                href="https://github.com/preetsuthar17/discord-bot-website-template"
+                href="https://github.com/Gold7EXE/de-site"
                 target="_blank"
               >
                 /source-code
