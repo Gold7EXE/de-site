@@ -12,7 +12,7 @@ const About = () => {
             <div>
               <h4 className="h-color">⚡ Commands</h4>
               <p className="p-color">
-                We have more than 200 commands support in this bot.
+                We have more than 50 commands support in this bot.
               </p>
               <hr />
             </div>
