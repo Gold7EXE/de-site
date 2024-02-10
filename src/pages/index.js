@@ -16,7 +16,7 @@ export default function Home() {
         <title>War</title>
         <meta
           name="description"
-          content="Minimal and awesome discord bot website created with ❤️ using NextJS"
+          content="War, a multipurpose discord bot for you."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
