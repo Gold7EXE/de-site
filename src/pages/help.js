@@ -2,7 +2,7 @@
 
 export async function getServerSideProps(context) {
   // Redirect to your Discord server URL
-  context.res.writeHead(302, { Location: 'https://discord.gg/wornsets' });
+  context.res.writeHead(302, { Location: 'https://discord.gg/VBZYgw7b' });
   context.res.end();
 
   // Return an empty object as props
