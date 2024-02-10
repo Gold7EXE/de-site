@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>War Development</title>
+        <title>War</title>
         <meta
           name="description"
           content="War, a multipurpose discord bot for you."
