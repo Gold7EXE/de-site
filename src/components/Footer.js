@@ -12,7 +12,7 @@ const Footer = () => {
             <ul>
               <li>
                 <Link className="h-color" href="/">
-                  Demon-Bot
+                  War Development
                 </Link>
                 <span
                   style={{
@@ -43,20 +43,20 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link className="p-color" href="https://discord.gg/rPEZQkXvfd">
+                <Link className="p-color" href="https://discord.gg/overtimee">
                   /support
                 </Link>
                 <Link
-                  href="https://discord.gg/rPEZQkXvfd"
+                  href="https://discord.gg/overtimee"
                   className="h-color no-decoration"
                 ></Link>
               </li>
               <li>
-                <Link className="p-color" href="https://discord.gg/rPEZQkXvfd">
+                <Link className="p-color" href="https://discord.gg/overtimee">
                   /discord-server
                 </Link>
                 <Link
-                  href="https://discord.gg/rPEZQkXvfd"
+                  href="https://discord.gg/overtimee"
                   className="h-color no-decoration"
                 ></Link>
               </li>
@@ -69,16 +69,16 @@ const Footer = () => {
             <p className="p-color">
               Created with ❤️ by{" "}
               <Link
-                href="https://github.com/Gold7EXE"
+                href="https://discord.gg/overtimee"
                 className="h-color no-decoration"
               >
-                Gold
+                1deals and Gold
               </Link>
             </p>
             <p className="p-color">{year} &copy; All rights reserved!</p>
           </div>
           <div className="footer-sec2-link">
-            <Link className="p-color no-decoration" href="https://discord.gg/rPEZQkXvfd">
+            <Link className="p-color no-decoration" href="https://discord.gg/overtimee">
               /support
             </Link>
             <Link
@@ -87,7 +87,7 @@ const Footer = () => {
             >
               /source-code
             </Link>
-            <Link className="p-color no-decoration" href="https://discord.gg/rPEZQkXvfd">
+            <Link className="p-color no-decoration" href="https://discord.gg/overtimee">
               /privacy
             </Link>
           </div>
