@@ -47,7 +47,7 @@ const Footer = () => {
                   /support
                 </Link>
                 <Link
-                  href="https://discord.gg/overtimee"
+                  href="/discord"
                   className="h-color no-decoration"
                 ></Link>
               </li>
