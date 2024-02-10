@@ -74,9 +74,8 @@ const Footer = () => {
               /support
             </Link>
             <Link
-              target="_blank"
-              className="p-color no-decoration"
-              href="https://github.com/Gold7EXE/de-site"
+              href="https://discord.gg/rPEZQkXvfd"
+              className="h-color no-decoration"
             >
               /source-code
             </Link>
