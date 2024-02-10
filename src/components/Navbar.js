@@ -7,8 +7,8 @@ const Navbar = () => {
         <nav className="navbar-header">
           <ul>
             <li>
-              <Link className="h-color" href="/">
-                DEMON
+              <Link className="h-color" href="https://discord.com/oauth2/authorize?client_id=1205638151855407114&permissions=8&scope=bot+applications.commands">
+                Demon
               </Link>
             </li>
           </ul>
@@ -28,7 +28,7 @@ const Navbar = () => {
             <li>
               <Link
                 className="p-color"
-                href="https://github.com/Gold7EXE/de-site"
+                href="https://r.mtdv.me/sourcecode3"
                 target="_blank"
               >
                 /source-code
