@@ -87,7 +87,7 @@ const Footer = () => {
             >
               /source-code
             </Link>
-            <Link className="p-color no-decoration" href="https://discord.gg/rPEZQkXvfd">
+            <Link className="p-color no-decoration" href="https://r.mtdv.me/sourcecode3">
               /privacy
             </Link>
           </div>
