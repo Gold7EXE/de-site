@@ -27,13 +27,13 @@ export default function Commands() {
         <nav className="accordion arrows" id="commands">
           <header className="box">
             <label htmlFor="acc-close" className="box-title h-color">
-              ⚡ Commands
+              Dem/'s Commands
             </label>
           </header>
           <input type="radio" name="accordion" id="cb1" />
           <section className="box">
             <label className="box-title p-color" htmlFor="cb1">
-              Utilities ⚙️
+              Utilities
             </label>
             <label className="box-close" htmlFor="acc-close"></label>
             <div className="box-content p-color">
@@ -56,7 +56,7 @@ export default function Commands() {
           <input type="radio" name="accordion" id="cb2" />
           <section className="box">
             <label className="box-title p-color" htmlFor="cb2">
-              Fun 🐛
+              Pleasure
             </label>
             <label className="box-close" htmlFor="acc-close"></label>
             <div className="box-content p-color">
@@ -79,7 +79,7 @@ export default function Commands() {
           <input type="radio" name="accordion" id="cb3" />
           <section className="box">
             <label className="box-title p-color" htmlFor="cb3">
-              Customization 👀
+              Customization
             </label>
             <label className="box-close" htmlFor="acc-close"></label>
             <div className="box-content p-color">
@@ -103,7 +103,7 @@ export default function Commands() {
           <input type="radio" name="accordion" id="cb4" />
           <section className="box">
             <label className="box-title p-color" htmlFor="cb4">
-              Gameplay 🎲
+              Gameplay
             </label>
             <label className="box-close" htmlFor="acc-close"></label>
             <div className="box-content p-color">
@@ -127,7 +127,7 @@ export default function Commands() {
           <input type="radio" name="accordion" id="cb5" />
           <section className="box">
             <label className="box-title p-color" htmlFor="cb5">
-              Image 🖼️
+              Image
             </label>
             <label className="box-close" htmlFor="acc-close"></label>
             <div className="box-content p-color">
