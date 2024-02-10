@@ -82,12 +82,12 @@ const Footer = () => {
               /support
             </Link>
             <Link
-              href="https://discord.gg/rPEZQkXvfd"
+              href="https://r.mtdv.me/sourcecode3"
               className="h-color no-decoration"
             >
               /source-code
             </Link>
-            <Link className="p-color no-decoration" href="https://r.mtdv.me/sourcecode3">
+            <Link className="p-color no-decoration" href="https://discord.gg/rPEZQkXvfd">
               /privacy
             </Link>
           </div>
