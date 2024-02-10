@@ -43,7 +43,7 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link className="p-color" href="https://discord.gg/overtimee">
+                <Link className="p-color" href="/discord">
                   /support
                 </Link>
                 <Link
@@ -52,11 +52,11 @@ const Footer = () => {
                 ></Link>
               </li>
               <li>
-                <Link className="p-color" href="https://discord.gg/overtimee">
+                <Link className="p-color" href="/discord">
                   /discord-server
                 </Link>
                 <Link
-                  href="https://discord.gg/overtimee"
+                  href="/discord"
                   className="h-color no-decoration"
                 ></Link>
               </li>
@@ -69,7 +69,7 @@ const Footer = () => {
             <p className="p-color">
               Created with ❤️ by{" "}
               <Link
-                href="https://discord.gg/overtimee"
+                href="/discord"
                 className="h-color no-decoration"
               >
                 1deals and Gold
@@ -78,7 +78,7 @@ const Footer = () => {
             <p className="p-color">{year} &copy; All rights reserved!</p>
           </div>
           <div className="footer-sec2-link">
-            <Link className="p-color no-decoration" href="https://discord.gg/overtimee">
+            <Link className="p-color no-decoration" href="/discord">
               /support
             </Link>
             <Link
@@ -87,7 +87,7 @@ const Footer = () => {
             >
               /source-code
             </Link>
-            <Link className="p-color no-decoration" href="https://discord.gg/overtimee">
+            <Link className="p-color no-decoration" href="/discord">
               /privacy
             </Link>
           </div>
