@@ -8,7 +8,7 @@ const Navbar = () => {
           <ul>
             <li>
               <Link className="h-color" href="https://discord.com/api/oauth2/authorize?client_id=1204476384165236796&permissions=8&scope=bot+applications.commands">
-                War
+                Invite War
               </Link>
             </li>
           </ul>
