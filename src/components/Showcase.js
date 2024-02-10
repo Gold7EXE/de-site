@@ -10,7 +10,7 @@ const Showcase = () => {
       animate={{ opacity: 1 }}
     >
       <main className="showcase">
-        <h1 className="showcase-header h-color">BOT</h1>
+        <h1 className="showcase-header h-color">Demon</h1>
         <h2 className="showcase-header-text h-color">
           The only discord bot you need!
         </h2>
@@ -22,13 +22,13 @@ const Showcase = () => {
         <span className="p-color">Bot is online!</span>
         <div className="showcase-btn">
           <button className="btn">
-            <Link className="h-color no-decoration" href="#">
+            <Link className="h-color no-decoration" href="https://discord.com/oauth2/authorize?client_id=1205638151855407114&permissions=8&scope=bot+applications.commands">
               Invite now!
             </Link>
           </button>
 
           <button className="btn">
-            <Link className="h-color no-decoration" href="#">
+            <Link className="h-color no-decoration" href="https://discord.gg/rPEZQkXvfd">
               Join server!
             </Link>
           </button>
