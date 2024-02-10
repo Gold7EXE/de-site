@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>BOT</title>
+        <title>Demon</title>
         <meta
           name="description"
           content="Minimal and awesome discord bot website created with ❤️ using NextJS"
