@@ -43,14 +43,22 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link className="p-color" href="#">
+                <Link className="p-color" href="/support">
                   /support
                 </Link>
+                <Link
+                  href="https://discord.gg/rPEZQkXvfd"
+                  className="h-color no-decoration"
+                ></Link>
               </li>
               <li>
-                <Link className="p-color" href="#">
+                <Link className="p-color" href="/discord-server">
                   /discord-server
                 </Link>
+                <Link
+                  href="https://discord.gg/rPEZQkXvfd"
+                  className="h-color no-decoration"
+                ></Link>
               </li>
             </ul>
           </div>
@@ -70,7 +78,7 @@ const Footer = () => {
             <p className="p-color">{year} &copy; All rights reserved!</p>
           </div>
           <div className="footer-sec2-link">
-            <Link className="p-color no-decoration" href="#">
+            <Link className="p-color no-decoration" href="/support">
               /support
             </Link>
             <Link
@@ -79,7 +87,7 @@ const Footer = () => {
             >
               /source-code
             </Link>
-            <Link className="p-color no-decoration" href="#">
+            <Link className="p-color no-decoration" href="/privacy">
               /privacy
             </Link>
           </div>
